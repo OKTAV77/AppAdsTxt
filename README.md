@@ -1,0 +1,2 @@
+# AppAdsTxt
+AdmobAppAdsTxt
